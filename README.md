@@ -36,7 +36,7 @@
 ---
 
 ## 我的专业是未来科技
-## 我最喜欢的一段代码 <!-- 二级标题  
+## 我最喜欢的一段代码 
 ```python
 # dev_skills_env.py
 import numpy as np
