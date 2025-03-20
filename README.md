@@ -1,6 +1,6 @@
 # 哆啦A梦的自我介绍
 
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=Ynwz88zo&id=07C49962B3546278D3165F33FBF068F80AF41CD2&thid=OIP.Ynwz88zoda5TVP8_37S4_QHaHa&mediaurl=https%3a%2f%2fc-ssl.duitang.com%2fuploads%2fblog%2f202012%2f08%2f20201208224221_5d3a7.jpeg&exph=1080&expw=1080&q=%e5%93%86%e5%95%a6a%e5%a4%a2&simid=607989103267702593&FORM=IRPRST&ck=EB2D4035254A03BE643BA8289F040600&selectedIndex=30&itb=0" width="200" alt="蓝色猫型机器人">
+<img src="https://th.bing.com/th/id/OIP.Ynwz88zoda5TVP8_37S4_QHaHa?rs=1&pid=ImgDetMain" width="200" alt="蓝色猫型机器人">
 
 大家好，我是**哆啦A梦**，我的身份是*22世纪育儿型机器人*。以下是我的自我介绍：
 
