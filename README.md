@@ -46,4 +46,4 @@ print(np.array([1, 2, 3]) ** 2)
 
 
 ### 我可以在IDE上使用我建立的虚拟环境
-< img src="https://github.com/cxx-04/CXX/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-20%20222613.png" width="800" alt="截图">
+< img src="[https://github.com/cxx-04/CXX/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-20%20222613.png](https://www.bing.com/images/search?view=detailV2&ccid=0PJ2zIHE&id=E02790DB95C90F3F9C1EBA9B076710B8ACA36B3E&thid=OIP.0PJ2zIHE_mYs_0P1HyHjSwHaE8&mediaurl=https%3a%2f%2fpic.baike.soso.com%2fugc%2fbaikepic2%2f1284%2f20230223170223-1524098647_jpeg_1080_720_158603.jpg%2f1284&exph=720&expw=1080&q=%e5%93%86%e5%95%a6a%e5%a4%a2&simid=608017411395251879&FORM=IRPRST&ck=DFC969BAF92D620BDDBF6C702C50D652&selectedIndex=6&itb=0)" width="800" alt="截图">
