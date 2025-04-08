@@ -1,0 +1,6 @@
+# bayes-mails-classify-master
+This is a demo of naive Bayesian text classification.
+
+![屏幕截图 2025-04-08 164530.png](%E4%BB%BB%E5%8A%A1%E6%88%AA%E5%9B%BE/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-08%20164530.png)
+![屏幕截图 2025-04-08 164538.png](%E4%BB%BB%E5%8A%A1%E6%88%AA%E5%9B%BE/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-08%20164538.png)
+![屏幕截图 2025-04-08 164707.png](%E4%BB%BB%E5%8A%A1%E6%88%AA%E5%9B%BE/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-08%20164707.png)
